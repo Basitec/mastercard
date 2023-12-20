@@ -1,0 +1,28 @@
+div.end,div.btw,div.scd{
+    position: relative;
+}
+ /* div.btw{
+    background-color: #ffa500;
+    border-radius: 50%;
+    /* background: -moz-linear-gradient(left center, orange, orange) repeat scroll 0 0 transparent; 
+    width: 5em;
+    height: 8em;
+    opacity: 0.85;
+} */
+div.end{
+    background-color: #F79E1B;
+    border-radius: 50%;
+    width: 11.5em;
+    height: 11.5em;
+    left: 7.5em;
+    opacity: 0.88;
+    bottom: 11.5em;
+    /* background: -moz-linear-gradient(orange, orange) repeat scroll 0 0 transparent; */
+    /* background: -webkit-linear-gradient(rgb(255, 187, 0) rgb(0, 0, 0) rgb(255, 255, 255)); */
+}
+div.scd{
+    background-color: #EB001B;
+    border-radius: 50%;
+    width: 11.5em;
+    height: 11.5em;
+}
